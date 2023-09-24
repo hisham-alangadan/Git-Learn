@@ -25,5 +25,10 @@
       "important": false,
       "id": 5
     }
+    {
+	"content": "Second new note",
+	"important": true,
+	"id": 6
+    }
   ]
 }
